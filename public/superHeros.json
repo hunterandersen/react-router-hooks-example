@@ -1,0 +1,22 @@
+{
+  "Hulk": {
+    "powerLevel": "10",
+    "intelligence": "1"
+  },
+  "Ironman": {
+    "powerLevel": "8",
+    "intelligence": "8"
+  },
+  "Batman": {
+    "powerLevel": "3",
+    "intelligence": "7"
+  },
+  "Moon Knight": {
+    "powerLevel": "5",
+    "intelligence": "3"
+  },
+  "Green Lantern": {
+    "powerLevel": "8",
+    "intelligence": "4"
+  }
+}
